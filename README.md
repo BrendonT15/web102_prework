@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-https://imgur.com/gallery/web102-prework-DB607ED
+<img src="https://imgur.com/gallery/web102-prework-DB607ED.gif"/>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
 <!-- Recommended tools:
